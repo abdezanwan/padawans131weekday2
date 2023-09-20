@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://ycbqsjob:DRdf49_gmUoupt5Y4Na7CVTtGpq8Qdml@berry.db.elephantsql.com/ycbqsjob",
+            "name": "Rahiem DB"
+        }
+    ]
+}
